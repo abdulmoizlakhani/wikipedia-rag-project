@@ -22,7 +22,7 @@ transformers: For text generation using models like T5 or GPT-2.
 Clone the repository to your local machine:
 
 
-```git clone https://github.com/AQadir44/Agents_Projects.git```
+```git clone https://github.com/abdulmoizlakhani/wikipedia-rag-project.git```
 
 ```cd simple-rag```
 Install the dependencies from the requirements.txt file:
